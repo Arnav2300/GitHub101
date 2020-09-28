@@ -1,0 +1,17 @@
+.array-container {
+    position: absolute;
+    left:0px;
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    width: 1px;
+    display: inline-block;
+    margin: 0 0px;
+  }
+  .button{
+      position: absolute;
+      left:400px;
+      
+
+  }
